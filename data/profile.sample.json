@@ -1,0 +1,42 @@
+{
+  "profile": {
+    "name": "YOUR NAME",
+    "title": "Your Job Title",
+    "contact": {
+      "phone": "+1-XXX-XXX-XXXX",
+      "location": "Your City, State, Country",
+      "email": "your.email@example.com",
+      "linkedin": "https://www.linkedin.com/in/yourprofile"
+    },
+    "profileImage": "/assets/profile.jpg",
+    "summary": "Your professional summary here...",
+    "experience": [
+      {
+        "company": "Company Name",
+        "position": "Job Title",
+        "duration": "Start Date - End Date",
+        "description": "Job description and achievements..."
+      }
+    ],
+    "education": [
+      {
+        "institution": "University Name",
+        "degree": "Degree Name",
+        "year": "Graduation Year"
+      }
+    ],
+    "skills": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "projects": [
+      {
+        "name": "Project Name",
+        "description": "Project description",
+        "technologies": ["Tech 1", "Tech 2"],
+        "link": "https://project-url.com"
+      }
+    ]
+  }
+}

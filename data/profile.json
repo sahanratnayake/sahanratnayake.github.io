@@ -1,0 +1,289 @@
+{
+  "profile": {
+    "name": "SAHAN RATNAYAKE",
+    "title": "Senior Solutions Architect",
+    "contact": {
+      "phone": "+12406878531",
+      "location": "Ashburn, VA, USA",
+      "email": "sahanratnayake@outlook.com",
+      "linkedin": "https://www.linkedin.com/in/sahanratnayake18"
+    },
+    "profileImage": "/assets/profile.jpg"
+  },
+  "aboutMe": "Accomplished Senior Solutions Architect with over 8 years of experience in designing, developing, and delivering high-impact software solutions across diverse industries. Expertise in leading cross-functional teams to architect scalable, secure, and innovative systems, with a strong focus on cloud technologies, blockchain, AI, and real-time platforms. Adept at translating business requirements into actionable technical strategies and overseeing the full product lifecycle, from concept to implementation.\n\nRecognized for my ability to manage complex projects and mentor teams towards successful, high-quality deliveries. My approach to solution design is centered around clarity, precision, and a customer-first mindset, ensuring that solutions are not only technically sound but also aligned with user and business needs. Clients value my transparent communication, technical acumen, and ability to deliver tailored solutions that drive operational excellence.\n\nKnown for crafting intuitive and user-centric UI designs that have contributed significantly to customer acquisition and retention. I continuously fine-tune and optimize interfaces to deliver seamless, high-performing experiences, ensuring the best possible user journey.\n\nDedicated to fostering a collaborative environment, I prioritize delivering results while balancing the needs of both stakeholders and development teams. Proven track record in building long-term relationships and consistently achieving organizational goals through strategic planning, hands-on leadership, and continuous innovation.",
+  "career": [
+    {
+      "title": "Product Solutions Architect | Lead Software Engineer",
+      "company": "Global Justice Solutions, USA",
+      "period": "2022 - Current",
+      "responsibilities": [
+        "Architected and led the end-to-end development of a comprehensive online dispute resolution platform, integrating negotiation, mediation, arbitration, and court judgment workflows into a single, user-friendly interface.",
+        "Designed and implemented a highly configurable workflow engine, reducing developer dependency for flow management and enabling rapid customization for various dispute types through a drag-and-drop interface and configurable.",
+        "Developed a custom appointment scheduler that optimizes meeting times by analysing the availability of all involved parties.",
+        "Integrated secure in-app payments using Stripe Payment Intents and designed a system for complex refund logic, streamlining financial transactions within the platform.",
+        "Architected and implemented a scalable microservices architecture on Azure (App Services, Function Apps, Container Apps), enhancing system maintainability, portability, and supporting teams with diverse skill sets.",
+        "Designed and implemented the Azure infrastructure, including App Gateway routing, API Management for security and policy enforcement, Service Bus for queuing, Redis Cache for API requests, SignalR for real-time updates, and a multi-tenant Azure Cosmos DB (MongoDB API) with complex querying, sharding, and indexing.",
+        "Led the testing team and architected a configurable testing framework using TestIM, significantly increasing testing efficiency and enabling comprehensive system testing across different workflows without requiring test script recreation.",
+        "Spearheaded client engagement from initial requirements gathering to UAT, ensuring clear communication, managing expectations, and leading the team through the development lifecycle (Jira, Agile methodologies).",
+        "Developed AI-powered features including video conference summarization (Azure Open AI GPT4) and an AI evidence (Azure AI Foundry), enhancing the platform's capabilities for mediators and arbitrators.",
+        "Managed the transition from Azure DevOps to GitHub Actions for streamlined and automated CI/CD deployments.",
+        "Recognized statewide for providing a user-friendly, customizable, all-in-one ODR solution that significantly improves access to justice. "
+      ]
+    },
+    {
+      "title": "Software Engineer | Blockchain Engineer",
+      "company": "Global Justice Solutions, USA",
+      "period": "2020 - 2022",
+      "responsibilities": [
+        "Developed scalable web applications using Angular and Node.js, optimizing performance and user experience across mediation, e-filing, and citation management platform",
+        "Designed and deployed Hyperledger Fabric networks, ensuring secure and efficient multi-organizational legal applications, and developed middleware APIs for seamless blockchain integratio",
+        "Engineered robust authentication flows leveraging UAE Pass, Azure AD, and Okta, strengthening system security and observability while ensuring compliance with industry standard",
+        "Conducted performance tuning and system optimizations, reducing API response times and enhancing overall application efficienc",
+        "Collaborated with cross-functional teams, including legal experts and software architects, to align blockchain solutions with regulatory requirements and business need",
+        "Developed and audited smart contracts to automate legal workflows, reducing manual intervention and improving operational efficiency"
+      ]
+    },
+    {
+      "title":"Co-Founder | Solutions Architect",
+      "company": "BLOCKSupplAI, Dubai, UAE",
+      "period": "2018 - 2020",
+      "responsibilities": [
+        "Founded and led the development of BLOCKSupplAI, an award-winning blockchain-powered supply chain management platform",
+        "Architected a multi-organizational blockchain network, integrating private data segregation and secure HSM wallet implementation for enhanced security",
+        "Designed and developed mobile applications for smart shipment tracking, QR-based verification, and POS transactions, enabling seamless and secure digital interactions",
+        "Led end-to-end business flow design, defining optimized workflows for manufacturers, distributors, and retailers",
+        "Designed and integrated AI-driven fraud detection and supply chain optimization models to enhance operational efficiency",
+        "Spearheaded strategic discussions with investors, securing funding and defining the product roadmap",
+        "Managed blockchain and AI integration, ensuring smooth API-driven automation and seamless interoperability",
+        "Deployed and maintained infrastructure using VMware, Docker Swarm, and Kubernetes, optimizing scalability and system reliability",
+        "Developed decision frameworks for blockchain transactions, ensuring compliance, efficiency, and decentralized control",
+        "Implemented CI/CD pipelines with GitHub Actions, streamlining deployment processes and enhancing development efficiency"
+      ]
+    },
+    {
+      "title": "IT Intern",
+      "company": "Wadi.com, Dubai, UAE",
+      "period": "2017",
+      "responsibilities": [
+        "IT Support",
+        "Supported infrastructure configuration, server maintenance, and IT operations."
+      ]
+    },
+    {
+      "title": "Associate Office 365 Solutions Specialist",
+      "company": "Spusht Technologies, Dubai, UAE",
+      "period": "2014 - 2015",
+      "responsibilities": [
+        "Managed Office 365 migrations , ensuring seamless data transfer and user adoption",
+        "Configured DNS records and authentication protocols, optimizing security and accessibility during the transition",
+        "Collaborated with stakeholders to resolve migration challenges, ensuring compliance and minimal business disruption"
+      ]
+    }
+  ],
+  "skills": {
+    "FRONTEND": {
+      "category": "frontend",
+      "items": ["Angular", "NextJS", "HTML", "CSS/SCSS"]
+    },
+    "BACKEND": {
+      "category": "backend",
+      "items": ["NodeJS", "Express", "SocketIO", "Websockets"]
+    },
+    "DATABASE": {
+      "category": "database",
+      "items": ["MongoDB", "CosmosDB", "SQL", "Firebase"]
+    },
+    "AZURE": {
+      "category": "azure",
+      "items": ["API Management", "App Gateway", "App Services", "Function Apps", "Container Apps", "Azure Kubernetes"]
+    },
+    "BLOCKCHAIN": {
+      "category": "blockchain",
+      "items": ["Hyperledger Fabric", "Ethereum", "Solidity", "Moralis", "Hardhat", "ChainLink"]
+    },
+    "INFRASTRUCTURE": {
+      "category": "infrastructure",
+      "items": ["Azure", "Kubernetes", "Docker Swarm", "Docker", "VMware"]
+    },
+    "LANGUAGES": {
+      "category": "languages",
+      "items": ["TypeScript", "JavaScript", "Java", "C++", "Android - Java", "Flutter - Dart"]
+    },
+    "COMMUNICATION": {
+      "category": "communication",
+      "items": ["RocketChat", "Jitsi", "Azure Media Services", "Azure Communication Services"]
+    },
+    "AUTHENTICATION": {
+      "category": "authentication",
+      "items": ["Azure Active Directory (B2B/B2C)", "Okta"]
+    },
+    "CODE MANAGEMENT": {
+      "category": "code-management",
+      "items": ["Jira", "GitHub", "GitHub Actions", "Azure DevOps Pipelines", "NX"]
+    },
+    "AI": {
+      "category": "ai",
+      "items": ["Azure Open AI", "Azure AI Foundry", "GPT-4", "LLM", "AI Agents", "TensorFlow", "ML-Kit"]
+    },
+    "TESTING": {
+      "category": "testing",
+      "items": ["TestIM", "Cypress", "Postman"]
+    },
+    "MISCELLANEOUS": {
+      "category": "miscellaneous",
+      "items": ["Agile Methodologies", "Scrum", "Kanban", "UI/UX Design"]
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science in Digital System Security",
+      "institution": "University of Wollongong, Australia",
+      "period": "2015 - 2019"
+    },
+    {
+      "degree": "GCE Advanced Level (A/L) Mathematics, Physics, ICT",
+      "institution": "President's College - Kotte, Sri Lanka",
+      "period": "2014"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CHFD: Certified Hyperledger Fabric Developer",
+      "issuer": "The Linux Foundation",
+      "id": "LF-vmrqo3qoz"
+    },
+    {
+      "name": "CHFA: Certified Hyperledger Fabric Administrator",
+      "issuer": "The Linux Foundation",
+      "id": "LF-sckbm8wt5"
+    },
+    {
+      "name": "VCP: VMware Certified Professional Data Center Virtualization",
+      "issuer": "VMware",
+      "id": "15183331-9679-B6B8375A641"
+    }
+  ],
+  "projects": [
+    {
+      "title": "ODR - Online Dispute Resolution",
+      "organization": "Global Justice",
+      "description": "Architected and led the end-to-end development of a comprehensive online dispute resolution platform, integrating negotiation, mediation, arbitration, and court judgment workflows into a single, user-friendly interface.",
+      "technologies": "Node.js (Typescript), Angular, Azure (App Services, Function Apps, Container Apps, App Gateway, API Management, Service Bus, Redis Cache, SignalR, Cosmos DB, Azure Open AI, Azure AI Foundry, B2C, Microsoft Entra External Identities, Storage Account), Stripe, Rocket.chat (websocket custom build), Jitsi, Apryse, Github Actions, TestIM, Jira",
+      "timeframe": "2021-Current",
+      "items": [
+        "Designed and implemented a highly configurable workflow engine, reducing developer dependency for flow management and enabling rapid customization for various dispute types through a drag-and-drop interface.",
+        "Developed a custom appointment scheduler that optimizes meeting times by analysing the availability of all involved parties.",
+        "Integrated secure in-app payments using Stripe Payment Intents and designed a system for complex refund logic, streamlining financial transactions within the platform.",
+        "Architected and implemented a scalable microservices architecture on Azure (App Services, Function Apps, Container Apps), enhancing system maintainability, portability, and supporting teams with diverse skill sets.",
+        "Designed and implemented the Azure infrastructure, including App Gateway routing, API Management for security and policy enforcement, Service Bus for queuing, Redis Cache for API requests, SignalR for real-time updates, and a multi-tenant Azure Cosmos DB (MongoDB API) with complex querying, sharding, and indexing.",
+        "Led the testing team and architected a configurable testing framework using TestIM, significantly increasing testing efficiency and enabling comprehensive system testing across different workflows without requiring test script recreation.",
+        "Spearheaded client engagement from initial requirements gathering to UAT, ensuring clear communication, managing expectations, and leading the team through the development lifecycle (Jira, Agile methodologies).",
+        "Developed AI-powered features including video conference summarization (Azure Open AI GPT4) and an AI evidence (Azure AI Foundry), enhancing the platform's capabilities for mediators and arbitrators.",
+        "Managed the transition from Azure DevOps to GitHub Actions for streamlined and automated CI/CD deployments.",
+        "Recognized statewide for providing a user-friendly, customizable, all-in-one ODR solution that significantly improves access to justice."
+      ]
+    },
+    {
+      "title": "CMS - Case Management System",
+      "organization": "Global Justice",
+      "description": "Architected and managed the infrastructure for a case management system used by over 30 courts, handling 10,000+ payment transactions (online and in-person).",
+      "technologies": "Dynamics APIs, App Gateway, Storage Account, Stripe, Azure Service Bus, NX, Github Actions, Azure Function Apps, App Services, Azure API Management,Service Bus",
+      "timeframe": "2022-2024",
+      "items": [
+        "Architected the integration of all components and microservices, making all services available through a single endpoint via App Gateway, and ensured zero downtime.",
+        "Administered the infrastructure and DevOps pipelines, ensuring high availability, security, and automated deployments across all environments.",
+        "Secured APIs through Azure API Management (APIM), integrating multiple APIs hosted across Function Apps, App Services, Azure Dynamics, Service Bus queues, and webhooks, ensuring centralized security, monitoring, and policy enforcement.",
+        "Designed and implemented reusable microservices for core functionalities such as payments, dynamic forms, and notifications, enabling rapid onboarding of new courts and reducing duplication of effort across projects.",
+        "Implemented secure online payment processing using Stripe, managing double-spending risks and integrating with a webhook for payment processing via a service bus queue.",
+        "Led the successful onboarding of the government entity with Stripe, facilitating secure fund transfers to connect accounts and managing payouts and disputes.",
+        "Integrated cloud-connected Wisepos terminals for in-person payments, linking each terminal to specific courts based on organizational units.",
+        "Utilized a mono-repo structure with NX for improved code management and implemented server-side rendering for enhanced performance."
+      ]
+    },
+    {
+      "title": "Supply Chain Management DAPP",
+      "organization": "BLOCKSupplAI",
+      "description": "Founded and architected an award-winning, end-to-end supply chain management suit on Hyperledger Fabric, leveraging AI for productivity and fraud tracking.",
+      "technologies": "Hyperledger Fabric (1.x, 2.x, CouchDB, Kafka, Raft, Private Data, HSM Wallets), Angular, Docker Swarm, Kubernetes, VMWare, Node.js, Mobile Development (Android/iOS), QR Scanning, GPS Tracking, AI",
+      "timeframe": "2018-2021",
+      "items": [
+        "Designed and developed a multi-organization blockchain network with segregated data (private data) and implemented robust security measures using HSM wallets and user identity roles.",
+        "Built and deployed multiple user interfaces including an Angular web app for manufacturers, distributors, and retailers, mobile apps for POS, item verification (QR scan), and courier tracking (automated QR scanning with GPS).",
+        "Managed and administered the Hyperledger Fabric network, including deploying new resources, creating organizations, channel updates, upgrading the blockchain from 1.x to 2.x, migrating to Raft ordering, and handling certificate renewals and data migration.",
+        "Deployed and managed the infrastructure on VMWare hosts using Docker Swarm and Kubernetes."
+      ]
+    },
+    {
+      "title": "RoboCop",
+      "organization": "Global Justice",
+      "description": "Developed a platform for controlling, patrolling, and surveillance of robots, including automated path detection and real-time streaming.",
+      "technologies": "Azure Media Services, Azure Video Indexer, Socket.io, Android (for control app), Okta, Github Actions, Segeway Loomo robot",
+      "timeframe": "2022-2023",
+      "items": [
+        "Implemented video analysis capabilities using Azure Video Indexer for facial recognition and transcription, and integrated edge and cloud-based suspicious object detection.",
+        "Built a real-time application using Socket.io for on-site robot control, map tracking, and voice communication.",
+        "Integrated Okta for secure authentication and implemented role-based access control."
+      ]
+    },
+    {
+      "title": "Notarization DApp",
+      "organization": "Global Justice",
+      "description": "Developed a platform for notarizing documents on a blockchain, integrating IBM Blockchain and implementing smart contract functionality.",
+      "technologies": "IBM Blockchain (1.2-1.4), Smart Contracts, Rocket.chat, Vision AI, UAE Pass",
+      "timeframe": "2020-2022",
+      "items": [
+        "Integrated real identity verification using AI, facial recognition, and a centralized identity platform (UAE Pass).",
+        "Managed IBM Blockchain administration and executed version upgrades."
+      ]
+    },
+    {
+      "title": "eFiling",
+      "organization": "Global Justice",
+      "description": "Developed a configurable eFiling platform enabling the public and attorneys to submit filings to court.",
+      "technologies": "Angular, Node.js, Apryse, Github Actions",
+      "timeframe": "2021",
+      "items": [
+        "Implemented a system for generating and auto-filling PDF agreements based on user-provided information using Apryse and dynamic questions."
+      ]
+    },
+    {
+      "title": "Court.Live",
+      "organization": "Global Justice",
+      "description": "Developed a video conferencing platform tailored for court proceedings, built on Jitsi and hosted on Azure containers.",
+      "technologies": "Jitsi, Azure Containers, Google Text-to-Speech",
+      "timeframe": "2020-2021",
+      "items": [
+        "Integrated transcription capabilities using Google Text-to-Speech and implemented call recording and breakout room functionality."
+      ]
+    },
+    {
+      "title": "Talent Tank DApp",
+      "organization": "UOWD & Zayed University",
+      "description": "Developed a multi-organization blockchain network on Hyperledger Fabric to manage student records across educational institutions and government entities.",
+      "technologies": "Hyperledger Fabric, VMWare (hosts management)",
+      "timeframe": "2020",
+      "items": [
+        "Built APIs to connect to appropriate blockchain nodes based on user organizational units and managed connection pools.",
+        "Authored scripts for deploying new resources, creating organizations, and managing channel updates."
+      ]
+    },
+    {
+      "title": "HSCode Search Optimization using Machine Learning",
+      "organization": "Dubai Customs",
+      "description": "Applied TensorFlow to optimize and improve the accuracy of the HSCode search process.",
+      "technologies": "TensorFlow, Machine Learning",
+      "timeframe": "2019",
+      "items": []
+    },
+    {
+      "title": "Notification Hub for emails, SMS",
+      "organization": "Global Justice",
+      "description": "Developed a configurable notification hub enabling dynamic email and SMS template creation with attribute replacement.",
+      "technologies": "Azure Communication Service, SignalR, Github Actions",
+      "timeframe": "2024",
+      "items": [
+        "Utilized Azure Communication Service for sending email and SMS notifications and SignalR for real-time notifications to platform users."
+      ]
+    }
+  ]
+}
