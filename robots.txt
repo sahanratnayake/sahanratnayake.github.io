@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /static/
+
+# Disallow private data
+Disallow: /data/profile.json
+
+# Allow search engines to crawl all public content
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://sahanratnayake.github.io/sitemap.xml
